@@ -1,1 +1,14 @@
 **/build
+cities.csv
+muni.csv
+poblacion_entidades.csv
+indicadores_de_pobreza_municipal_2015_poblacion.csv
+indicadores_de_pobreza_municipal_2015_porcentaje.csv
+poblacion_municipios.csv
+IAIM_Entidad_2010.csv
+IAIM_Municipio.csv
+IAIM_Entidad.csv
+/src/*.csv
+*.csv
+codigos_postales_municipios_2021.csv
+lat_lon_alt_municipios.csv 

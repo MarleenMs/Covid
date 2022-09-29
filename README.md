@@ -1,6 +1,9 @@
-# Julia-COVID
-[![codecov](https://codecov.io/gh/mucinoab/Covid/branch/master/graph/badge.svg?token=3aik50X26D)](https://codecov.io/gh/mucinoab/Covid)
+# Reporstat
+‎
+    <p align="center">
+      <img width="1080" height="374" src="https://user-images.githubusercontent.com/28630268/117886161-68da0080-b274-11eb-9785-d651953c0e6b.png">
+    </p>
+    
+Paquete que tiene como objetivo agilizar la consulta de información poblacional de instituciones como INEGI, CONAPO y CONEVAL segregada por municipios para que, en conjunto con datos abiertos de cualquier índole, se facilite la realización de análisis y reportes estadísticos al usuario.
 
-[Documentación](https://mucinoab.github.io/Covid/dev/)
-
-Se tiene como objetivo aprovechar la información a nivel municipal del INEGI, CONAPO y CONEVAL para consolidar en un solo lugar los datos abiertos de la Secretaría de Salud sobre COVID-19 en México, junto con información relevante del municipio de residencia de cada caso.
+[Documentación](https://mucinoab.github.io/Reporstat/dev/)
